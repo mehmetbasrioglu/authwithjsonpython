@@ -1,0 +1,16 @@
+[
+    {
+        "kullaniciadi": "mhmtbsrglu0",
+        "email": "m@m.com",
+        "password": "123456",
+        "admin": true,
+        "adminlevel": 5
+    },
+    {
+        "kullaniciadi": "oyagizem",
+        "email": "g@g.com",
+        "password": "123456",
+        "admin": true,
+        "adminlevel": 5
+    }
+]

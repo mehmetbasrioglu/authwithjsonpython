@@ -12,7 +12,11 @@
   <img src="https://user-images.githubusercontent.com/75476607/105732913-06b5f380-5f42-11eb-9dd1-4fb5f9d8e727.png" />
   <img src="https://user-images.githubusercontent.com/75476607/105733159-44b31780-5f42-11eb-87c0-290271efe0a0.png" />
   <img src="https://user-images.githubusercontent.com/75476607/105733466-a4a9be00-5f42-11eb-9b07-59025c496e89.png" />
+  
   </details>
 
 
 </details>
+
+
+@oygizka & @mhmtbsrglu0
